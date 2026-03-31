@@ -1,5 +1,5 @@
 # Sports-in-US-Metropolitan-Areas
-This is a simple analysis project on the sports performance of various US/Canada Metropolitan Areas in the different sports leagues (NBA, MLB, NFL, NHL) in the year 2018, particularly finding the correlation between their population and how much their sports teams win or lose games.
+This is a simple data analysis project in Python on the sports performance of various US/Canada Metropolitan Areas in the different sports leagues (NBA, MLB, NFL, NHL) in the year 2018, particularly finding the correlation between their population and how much their sports teams win or lose games.
 
 ## Methodology
 
